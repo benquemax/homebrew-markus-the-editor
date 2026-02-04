@@ -5,7 +5,7 @@ cask "markus" do
   version "0.3.2"
   sha256 "31dd5877c2d9471f371ccb47c90f99c7987db8735f72a11dd988e0e1b857126e"
 
-  url "https://github.com/benquemax/markus-the-editor/releases/download/v#{version}/Markus-#{version}-arm64.dmg"
+  url "https://github.com/benquemax/markus-the-editor/releases/download/v#{version}/Markus-#{version}.dmg"
   name "Markus"
   desc "Local WYSIWYG Markdown editor built with Electron, React, and ProseMirror"
   homepage "https://github.com/benquemax/markus-the-editor"
