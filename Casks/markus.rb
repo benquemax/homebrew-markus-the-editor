@@ -2,8 +2,8 @@
 # https://github.com/benquemax/markus-the-editor
 
 cask "markus" do
-  version "0.9.0"
-  sha256 "f81c44e7c9b9b310d982dd8898cdcc49defbe6f60d2769e7cc60f1c70e78b9c9"
+  version "0.10.0"
+  sha256 "276b7ffafeeaeeecb4f3eb59a48be5d4e4662e036159ba1cfa8a50bf676dd3cf"
 
   url "https://github.com/benquemax/markus-the-editor/releases/download/v#{version}/Markus-#{version}.dmg"
   name "Markus"
